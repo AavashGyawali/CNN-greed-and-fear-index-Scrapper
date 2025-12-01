@@ -226,8 +226,6 @@ This project is licensed under the **MIT License**.
 
 - See the `LICENSE` file in the repository root for the full license text.
 - You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, subject to the terms of the MIT License.
-- Although the project was created with the help of AI tools, you (the repository owner) hold the copyright
-  to the resulting code and configuration, and you are offering it under the MIT terms.
 
 ---
 
