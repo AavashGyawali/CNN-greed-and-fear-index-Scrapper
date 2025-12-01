@@ -55,11 +55,11 @@ You can see exact, pinned versions in `requirements.txt`.
 From your terminal:
 
 ```bash
-git clone <your-repo-url>.git
-cd <your-repo-folder>
+git clone https://github.com/AavashGyawali/CNN-greed-and-fear-index-Scrapper.git
+cd CNN-greed-and-fear-index-Scrapper
+
 ```
 
-Replace `<your-repo-url>` and `<your-repo-folder>` with your actual GitHub repo URL and directory name.
 
 ### 2. (Optional but recommended) Create and activate a virtual environment
 
@@ -222,8 +222,12 @@ Once you have the CSV, here are a few ideas for extending this project:
 
 ## License
 
-Specify your chosen license here (e.g., MIT, Apache 2.0, or “All rights reserved”).  
-If you plan to publish this on GitHub, consider adding a `LICENSE` file as well.
+This project is licensed under the **MIT License**.
+
+- See the `LICENSE` file in the repository root for the full license text.
+- You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, subject to the terms of the MIT License.
+- Although the project was created with the help of AI tools, you (the repository owner) hold the copyright
+  to the resulting code and configuration, and you are offering it under the MIT terms.
 
 ---
 
